@@ -41,3 +41,6 @@ Thumbs.db
 # 🔑 Chaves e configs locais
 secrets.json
 config.local.py
+
+# Adicional feito por mim
+logs.txt

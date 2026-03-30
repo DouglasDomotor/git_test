@@ -12,6 +12,8 @@ Repositório criado para praticar comandos básicos do Git e fluxo com GitHub.
 - `git revert`
 - `git reset`
 - `git add / commit / push / pull`
+- `git ignore`
+- `git hub gist`
 
 ## 🔄 Fluxo básico
 ```bash
@@ -31,5 +33,10 @@ git push -u origin minha-branch
 git revert <commit>
 git reset --hard <commit>
 ```
+
+## Simulando conflitos
+
+## Criar README.md
+
 
 Projeto apenas para fins de estudo ✨
