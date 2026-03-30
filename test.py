@@ -1,4 +1,4 @@
-print('Teste git/github.')
+print('Tes git/github.')
 
 print('Teste de conflito terminal') 
 
