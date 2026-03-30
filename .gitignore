@@ -1,0 +1,43 @@
+# 🔐 Arquivos sensíveis
+.env
+.env.*
+*.env
+
+# 🧠 Cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 🐍 Ambiente virtual
+venv/
+.venv/
+env/
+ENV/
+
+# 📦 Instalações / build
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# 🧪 Testes / cobertura
+.coverage
+htmlcov/
+.pytest_cache/
+
+# 💻 IDEs e editores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# 🖥️ Sistema operacional
+.DS_Store
+Thumbs.db
+
+# 📄 Logs
+*.log
+
+# 🔑 Chaves e configs locais
+secrets.json
+config.local.py
